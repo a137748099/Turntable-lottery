@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.jpg.flat",
+        "source": "F:\\PROJECT\\LotteryWidget\\android-build\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.jpg.flat",
+        "source": "F:\\PROJECT\\LotteryWidget\\android-build\\res\\drawable-ldpi\\splash.jpg"
+    },
+    {
+        "merged": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\PROJECT\\LotteryWidget\\android-build\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "F:\\PROJECT\\LotteryWidget\\android-build\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "F:\\PROJECT\\LotteryWidget\\android-build\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "D:\\Qt\\Qt5.12.3\\5.12.3\\android_armv7\\src\\android\\java\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.jpg.flat",
+        "source": "F:\\PROJECT\\LotteryWidget\\android-build\\res\\drawable-mdpi\\splash.jpg"
+    }
+]

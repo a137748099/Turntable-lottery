@@ -1,0 +1,4 @@
+#Sat Aug 22 14:41:39 CST 2020
+base.0=F\:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

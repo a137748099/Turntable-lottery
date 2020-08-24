@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\PROJECT\\LotteryWidget\\android-build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Qt\\Qt5.12.3\\5.12.3\\android_armv7\\src\\android\\java\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "32,33,34,35",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1351,1459,1581,1693",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "1454,1576,1688,1786"
+                    }
+                },
+                {
+                    "source": "F:\\PROJECT\\LotteryWidget\\android-build\\res\\values\\libs.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,13,-1",
+                        "startColumns": "-1,-1,-1,5,-1",
+                        "startOffsets": "-1,-1,-1,360,-1",
+                        "endLines": "-1,-1,-1,20,-1",
+                        "endColumns": "-1,-1,-1,13,-1",
+                        "endOffsets": "-1,-1,-1,527,-1"
+                    },
+                    "to": {
+                        "startLines": "2,5,18,21,29",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,114,1012,1066,1236",
+                        "endLines": "4,17,20,28,31",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "109,1007,1061,1231,1346"
+                    }
+                }
+            ]
+        }
+    ]
+}
