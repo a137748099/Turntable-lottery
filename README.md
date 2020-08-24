@@ -1,5 +1,5 @@
 # Turntable-lottery
-基于Qt android的转盘抽奖
+基于Qt android的转盘抽奖， 娱乐demo，对QML不熟，用的widget实现
 ### Qt环境为
 Qt5.12.3 + armeabi-v7a, jdk1.8.0_261 + ndk19.2.5345600 + sdk26.1.1
 
